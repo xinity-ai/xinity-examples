@@ -1,0 +1,1 @@
+What is the difference between a list and a tuple in Python, and when should each be preferred for storing a small collection of values that will be passed between functions in a typical project? Please give a short example of each that illustrates the practical difference.
